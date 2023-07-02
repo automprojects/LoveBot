@@ -1,0 +1,9 @@
+Steps to perform the task:
+1. Download main.py and open this file with your favourite IDE.
+2. Before running this code, check if you have installed pyautogui. Otherwise type 'pip install puautogui' in terminal and hit enter.
+3. Next open web.whatsapp.com, login to your whatsapp account and choose the target chatbox of your lover.
+4. Verify if the text cursor is blinking inside the "Type a message" Box.
+5. Now run the code, it prints "Program starts in 5 seconds....." in the terminal. Then switch to whatsapp page and wait for it to perform task.
+6. It starts typing and sending the text multiple types until loop ends. 
+7. To stop this execution click inside terminal and click Ctrl + C.
+8. Have fun. Bye
